@@ -53,8 +53,6 @@ We distribute our work across several platforms to help other developers build t
 Follow the development journey:
 
 *   **Twitter/X:** [@thewaifuai](https://x.com/thewaifuai)
-*   **Bluesky:** [@waifuai.bsky.social](https://bsky.app/profile/waifuai.bsky.social)
-*   **TikTok:** [@waifuai](https://www.tiktok.com/@waifuai)
 *   **DeepWiki:** [WaifuAI Wiki](https://deepwiki.com/waifuai)
 
 ---
