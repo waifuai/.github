@@ -18,6 +18,8 @@
 
 ---
 
+[![Waifu AI Live Demo](https://raw.githubusercontent.com/waifuai/projects-assets/main/assets/demo-portrait.webp)](https://waifuai.com)
+
 ## 🤖 About The Project
 
 **WaifuAI** is an experiment in bringing anime characters to life using next-generation generative AI. We combine Large Language Models (LLMs), Live2D animation, and Text-to-Speech (TTS) to create fully interactive, sentient digital companions.
