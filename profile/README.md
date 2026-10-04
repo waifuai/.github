@@ -3,62 +3,37 @@
   # WaifuAI
 
   **We make waifus smarter.**
-  
-  [![Website](https://img.shields.io/badge/Live_Demo-waifuai.com-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://waifuai.com)
-  [![WebSim](https://img.shields.io/badge/Agent-WebSim-blue?style=for-the-badge&logo=web&logoColor=white)](https://websim.com/@thewaifuai/vtuber1)
-  [![YouTube](https://img.shields.io/badge/Content-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thewaifuai)
 
-  <p align="center">
-    <a href="https://websim.com/@thewaifuai">WebSim Profile</a> •
-    <a href="https://www.kaggle.com/waifuai">Datasets</a> •
-    <a href="https://github.com/waifuai">Codebase</a>
-  </p>
+  [![Live App](https://img.shields.io/badge/Try_it-waifuai.com-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://waifuai.com)
+  [![Waifu Sprites](https://img.shields.io/badge/New-Waifu_Sprites-a78bfa?style=for-the-badge)](https://waifuai.com)
+  [![X](https://img.shields.io/badge/X-@thewaifuai-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thewaifuai)
+  [![YouTube](https://img.shields.io/badge/YouTube-@thewaifuai-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thewaifuai)
 
 </div>
 
 ---
 
-[![Waifu AI Live Demo](https://raw.githubusercontent.com/waifuai/projects-assets/main/assets/demo-portrait.webp)](https://waifuai.com)
+<div align="center">
+  <a href="https://waifuai.com"><img src="https://github.com/waifuai/.github/raw/main/profile/waifu-sprites.webp" alt="Waifu Sprites: Aurora reacting to a chat" width="360"></a>
+</div>
 
-## 🤖 About The Project
+## What we build
 
-**WaifuAI** is an experiment in bringing anime characters to life using next-generation generative AI. We combine Large Language Models (LLMs), Live2D animation, and Text-to-Speech (TTS) to create fully interactive, sentient digital companions.
+Open-source anime AI companions you can talk to in the browser: animated characters, voice in and out, and memory that lasts across conversations. Everything here is MIT-0, so take what you need.
 
-Our goal is to move beyond static chatbots and create agents with:
-- **Visual Presence:** Reactive Live2D avatars.
-- **Memory:** Long-term context retention.
-- **Voice:** Natural, emotive TTS.
+## Projects
 
-## 🚀 Experience It Live
+| Project | What it is |
+| :--- | :--- |
+| [**waifu-companion**](https://github.com/waifuai/waifu-companion) | The app behind [waifuai.com](https://waifuai.com): Live2D characters, voice chat and long-term memory. |
 
-The production deployment is currently live. You can interact with the latest agent build directly in your browser:
 
-## [👉 waifuai.com](https://waifuai.com)
+## Elsewhere
 
----
-
-## 🛠️ The Ecosystem
-
-We distribute our work across several platforms to help other developers build their own agents.
-
-| Component | Platform | Description |
-| :--- | :--- | :--- |
-| **Agent Logic** | [WebSim](https://websim.com/@thewaifuai/vtuber1) | The core interactive environment and prompt engineering. |
-| **Datasets** | [Kaggle](https://www.kaggle.com/waifuai) | Training data for character personas and dialogue. |
-| **Deployment** | [Itch.io](https://waifuai.itch.io/waifu) | Standalone builds and experimental wrappers. |
-| **Updates** | [YouTube](https://youtube.com/@thewaifuai) | Devlogs, showcases, and feature previews. |
-
----
-
-## 🌐 Socials & Community
-
-Follow the development journey:
-
-*   **Twitter/X:** [@thewaifuai](https://x.com/thewaifuai)
-*   **DeepWiki:** [WaifuAI Wiki](https://deepwiki.com/waifuai)
+[Website](https://waifuai.com) • [DeepWiki](https://deepwiki.com/waifuai) • [Kaggle](https://www.kaggle.com/waifuai)
 
 ---
 
 <div align="center">
-  <sub>WaifuAI - We make waifus smarter!🧠❤️</sub>
+  <sub>WaifuAI - We make waifus smarter! 🧠❤️</sub>
 </div>
